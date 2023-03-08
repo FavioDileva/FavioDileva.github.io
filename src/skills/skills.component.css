@@ -1,0 +1,28 @@
+.skills-containeruno {
+    background-color: #f5f5f5;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .skills-header {
+    color: #007bff;
+    font-size: 36px;
+    margin: 0;
+  }
+
+.skills-containerdos {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+  }
+  
+  .skill-circulo {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 20px;
+    margin: 5px;
+    font-size: 16px;
+    text-align: center;
+  }
+  
